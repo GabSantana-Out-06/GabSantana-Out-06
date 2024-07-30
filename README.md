@@ -3,7 +3,6 @@
   
   seja bem vindo ao meu perfil 👋
   
-  Alguns de meus trabalhos
 
 <!--
 **GabSantana-Out-06/GabSantana-Out-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
